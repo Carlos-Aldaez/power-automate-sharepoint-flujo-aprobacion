@@ -1,0 +1,9 @@
+{
+  "solicitante": "Jefe de operaciones",
+  "area": "Finanzas",
+  "tipoSolicitud": "Compra de equipo",
+  "monto": 2500,
+  "prioridad": "Alta",
+  "fechaSolicitud": "2026-01-15T10:32:00Z",
+  "detalle": "Se requiere la compra de una laptop para el nuevo analista financiero."
+}
