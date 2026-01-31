@@ -124,21 +124,21 @@ Tareas Operativas
 ### 🔄 Diagrama del Flujo de Aprobación
 Vista general del proceso automatizado desde el registro hasta la gestión operativa.
 
-![Diagrama del Flujo](screenshots\flujo.png)
+![Diagrama del Flujo](screenshots/flujo.png)
 
 ---
 
 ### 🗂 Registro de Solicitudes en SharePoint
 Lista donde se almacenan automáticamente las solicitudes enviadas desde Microsoft Forms.
 
-![Lista de Solicitudes en SharePoint](screenshots\lista_solicitudes.png)
+![Lista de Solicitudes en SharePoint](screenshots/lista_solicitudes.png)
 
 ---
 
 ### 📧 Notificación por Correo de Aprobación
 Ejemplo del correo que recibe el solicitante cuando su requerimiento es aprobado.
 
-![Correo de Aprobación](screenshots\ejemplo_correo_aprobacion.png)
+![Correo de Aprobación](screenshots/ejemplo_correo_aprobacion.png)
 
 
 ---
