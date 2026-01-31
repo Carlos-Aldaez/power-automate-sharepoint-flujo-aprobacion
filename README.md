@@ -155,7 +155,7 @@ Ejemplo del correo que recibe el solicitante cuando su requerimiento es aprobado
 
 ## 🚧 Mejoras Futuras
 
-Consulta el archivo 👉 **[roadmap.md](roadmap.md)**
+Consulta el archivo 👉 **[roadmap.md](future-improvements/roadmap.md)**
 
 Próximas versiones incluirán:
 - Dashboard en Power BI  
