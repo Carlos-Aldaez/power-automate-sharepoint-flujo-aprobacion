@@ -165,12 +165,6 @@ Próximas versiones incluirán:
 
 ---
 
-## 👨‍💻 Autor
-
-**Proyecto desarrollado como práctica profesional en automatización de procesos empresariales con Power Platform.**
-
----
-
 ## ⭐ Valor Profesional del Proyecto
 
 Este sistema demuestra habilidades en:
@@ -179,7 +173,12 @@ Este sistema demuestra habilidades en:
 ✔ Diseño de flujos empresariales  
 ✔ Integración entre herramientas Microsoft  
 ✔ Modelado de datos en SharePoint  
-✔ Gestión de aprobaciones digitales  
+✔ Gestión de aprobaciones digitales
 
 ---
 
+## 💡 Autor
+**Carlos Aldaez** – Analista de Datos Junior/Intermedio  
+[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Carlos-Aldaez)
+
+---
